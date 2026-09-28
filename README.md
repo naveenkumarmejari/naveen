@@ -65,13 +65,7 @@ Hi, I'm Naveen Kumar 👋 I'm a **Python Developer** passionate about backend de
 
 ---
 
-## 📊 GitHub Stats
 
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenkumarmejari\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarmejari\&layout=compact\&theme=dark)
-
----
 
 ## 🌐 Connect with Me
 
@@ -80,6 +74,7 @@ Hi, I'm Naveen Kumar 👋 I'm a **Python Developer** passionate about backend de
 🐙 **GitHub:** [naveenkumarmejari](https://github.com/naveenkumarmejari)
 
 📧 **Email:** [naveenkumarmejari23@gmail.com](mailto:naveenkumarmejari23@gmail.com)
+
 
 ---
 
